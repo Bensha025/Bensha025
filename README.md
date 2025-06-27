@@ -14,3 +14,9 @@ Soy **Estudiante de Ingeniería en Computación** y apasionado por el desarrollo
 ## 📈 Lenguajes más utilizados:
 
 ![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Bensha025&layout=compact)
+
+## 🔧 Herramientas que utilizo:
+
+- ![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)
+- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+- ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
