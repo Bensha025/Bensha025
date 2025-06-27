@@ -13,4 +13,4 @@ Soy **Estudiante de Ingeniería en Computación** y apasionado por el desarrollo
 
 ## 📈 Lenguajes más utilizados:
 
-![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?Bensha025=TuUsuario&layout=compact)
+![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Bensha025&layout=compact)
