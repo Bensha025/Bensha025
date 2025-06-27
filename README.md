@@ -10,3 +10,7 @@ Soy **Estudiante de Ingeniería en Computación** y apasionado por el desarrollo
 - **Base de Datos**: MongoDB, Firebase
 - **Herramientas**: Git, GitHub
 - **Desarrollo de Software**: Desarrollo ágil, TDD, CI/CD
+
+## 📈 Lenguajes más utilizados:
+
+![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?Bensha025=TuUsuario&layout=compact)
