@@ -30,6 +30,6 @@ Soy **Estudiante de Ingeniería en Computación** y apasionado por el desarrollo
 - ## 📂 Ultimos proyectos:
 ### 1. [Juego Secreto](https://github.com/Bensha025/Juego-secreto)
 
-![[Juego Secreto](https://drive.google.com/file/d/1pfMFtWE9qczRuSZbFd4bnJZ5GSwSTlcK/view?usp=sharing)
+![Juego Secreto](https://drive.google.com/file/d/1pfMFtWE9qczRuSZbFd4bnJZ5GSwSTlcK/view?usp=sharing)
 
 **Tecnologías**: NestJS, MongoDB, TypeScript
