@@ -28,7 +28,7 @@ Soy **Estudiante de Ingeniería en Computación** y apasionado por el desarrollo
 - **Twitter**: [@Benjamín Ordaz](https://twitter.com/BenjamínOrdaz)
 
 - ## 📂 Ultimos proyectos:
-### 1. [Juego Secreto](https://github.com/Bensha025/Juego-secreto)
+### 1. [Juego Secreto](/assets/chatbot.png)
 
 ![Juego Secreto](https://drive.google.com/file/d/1pfMFtWE9qczRuSZbFd4bnJZ5GSwSTlcK/view?usp=sharing)
 
