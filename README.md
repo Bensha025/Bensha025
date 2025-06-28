@@ -30,6 +30,6 @@ Soy **Estudiante de Ingeniería en Computación** y apasionado por el desarrollo
 - ## 📂 Ultimos proyectos:
 ### 1. [Juego Secreto](./assets/chatbot.png)
 
-![Juego Secreto](https://drive.google.com/file/d/1pfMFtWE9qczRuSZbFd4bnJZ5GSwSTlcK/view?usp=sharing)
+![Juego Secreto](./assets/foro.png)
 
 **Tecnologías**: NestJS, MongoDB, TypeScript
