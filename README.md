@@ -18,18 +18,10 @@ Soy **Estudiante de Ingeniería en Computación** y apasionado por el desarrollo
 ## 🔧 Herramientas que utilizo:
 
 - ![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)
-- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 - ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
 ## 📫 ¿Cómo contactarme?
 
-- **Correo**: [benjamin.ordaz@example.com](mailto:benjamin.ordaz@example.com)
+- **Correo**: [crisbenja97@gmail.com](mailto:crisbenja97@gmail.com)
 - **LinkedIn**: [https://linkedin.com/in/benjamin-ordaz](https://linkedin.com/in/benjamin-ordaz)
-- **Twitter**: [@Benjamín Ordaz](https://twitter.com/BenjamínOrdaz)
 
-- ## 📂 Ultimos proyectos:
-### 1. [Juego Secreto](./assets/chatbot.png)
-
-<img src="./assets/foro.png" alt="Chatbot clínico" width="400" height="300"/>
-
-**Tecnologías**: NestJS, MongoDB, TypeScript
